@@ -24,6 +24,10 @@
 
 ###
 
+<p align="left">🤝 ➤ I am looking to collaborate on doing small web and game applications.</p>
+
+###
+
 <p align="left">🌟 ➤ Let's code with purpose and share knowledge. Connect with me, and <br>let's build a brighter, more connected future through code.</p>
 
 ###
