@@ -16,6 +16,8 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skye0814&label=Visitors&color=0e75b6&style=flat" alt="skye0814" /> </p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skye0814&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=skye0814&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
