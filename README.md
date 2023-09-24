@@ -4,15 +4,35 @@
 
 ###
 
-<h4 align="center">Hi 👋! My name is Matt and I'm a self-taught passionate and dedicated developer from Philippines</h4>
+<h2 align="center">Hi 👋! My name is Matt</h2>
 
 ###
 
-<p align="left">📝 ➤ I am currently learning React and state management at my own, <br>and looking where to fit in this world of programming</p>
+<h4 align="center">I'm a self-taught passionate and dedicated developer, graduated from Polytechnic University of the Philippines as a Computer Engineering student.</h4>
 
 ###
 
-<p align="left">🌟 ➤ Let's code with purpose and share knowledge. Connect with me, and <br>let's build a brighter, more connected future through code!</p>
+<p align="left">🧑‍💻 ➤ Currently working as a Programmer/Analyst, using a mainframe computer.</p>
+
+###
+
+<p align="left">🎮 ➤ When I'm not immersed in code, you can often find me in online games like Valorant,<br>we can play sometime and talk about some ideas.</p>
+
+###
+
+<p align="left">📝 ➤ I am currently learning React, state management, and AWS.</p>
+
+###
+
+<p align="left">🌟 ➤ Let's code with purpose and share knowledge. Connect with me, and <br>let's build a brighter, more connected future through code.</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">GitHub Stats:</h3>
 
 ###
 
@@ -21,6 +41,14 @@
   <img src="https://streak-stats.demolab.com?user=skye0814&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skye0814&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -68,6 +96,25 @@
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">Connect with me:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/kornineto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/matteophh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
