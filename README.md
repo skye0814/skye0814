@@ -2,11 +2,11 @@
   <img height="100" src="https://img.wattpad.com/290da298e700eeab427fe90dcc49ef3ceccf4c28/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f3047514d45772d434172366669673d3d2d3838353530343030302e313630663066316232626333646137353137333937383735373737392e6a7067?s=fit&w=720&h=720"  />
 </div>
 
-###
+
 
 <h2 align="center" style="text-decoration: none">Hi 👋! My name is Matt</h2>
 
-###
+
 
 <h4 align="center">I'm a self-taught passionate and dedicated developer, graduated from Polytechnic University of the Philippines as a Computer Engineering student.</h4>
 
