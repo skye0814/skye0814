@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Matt</h2>
+<h2 align="center" style="text-decoration: none">Hi 👋! My name is Matt</h2>
 
 ###
 
