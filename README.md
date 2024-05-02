@@ -12,11 +12,7 @@
 
 ###
 
-<p align="left">🧑‍💻 ➤ Currently working as a Programmer/Analyst, using a mainframe computer.</p>
-
-###
-
-<p align="left">🎮 ➤ When I'm not immersed in code, you can often find me in online games like Valorant,<br>we can play sometime and talk about some ideas.</p>
+<p align="left">🧑‍💻 ➤ Currently working as a Programmer/Analyst.</p>
 
 ###
 
@@ -25,10 +21,6 @@
 ###
 
 <p align="left">🤝 ➤ I am looking to collaborate on doing small web and game applications.</p>
-
-###
-
-<p align="left">🌟 ➤ Let's code with purpose and share knowledge. Connect with me, and <br>let's build a brighter, more connected future through code.</p>
 
 ###
 
@@ -71,19 +63,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
@@ -96,8 +78,6 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
 
 ###
