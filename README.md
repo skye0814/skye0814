@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📝 ➤ I am currently learning React, state management, and AWS.</p>
+<p align="left">📝 ➤ I am currently learning more with React, CI/CD Pipelines, and Amazon Web Services.</p>
 
 ###
 
